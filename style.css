@@ -289,12 +289,11 @@ html {
     margin-top: 10px;
   }
   .hero-image {
-    max-width: 80%;
-    opacity: 0.5;
-    position: static;
-    transform: none;
-    width: auto;
-    height: auto;
+    width: 60vw;
+    height: 60vh;
+    top: 20vh;
+    left: 20vw;
+    opacity: 0.3;
   }
   section {
     padding: 75px 14px;
