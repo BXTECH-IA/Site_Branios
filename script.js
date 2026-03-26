@@ -36,3 +36,5 @@ const observer = new IntersectionObserver(entries => {
 });
 
 document.querySelectorAll(".hidden").forEach(el => observer.observe(el));
+
+// (Campos de CTA/whatsapp agora usam somente links diretos para evitar possíveis bloqueios de popup.)
